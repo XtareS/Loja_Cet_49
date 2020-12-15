@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Loja_Cet_49.Dados;
+using Loja_Cet_49.Dados.Entidades;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using Loja_Cet_49.Dados;
-using Loja_Cet_49.Dados.Entidades;
 
 namespace Loja_Cet_49.Controllers
 {
